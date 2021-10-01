@@ -1,0 +1,5 @@
+/home/khalilsleimi/Documents/learnspace/stage-ing/vneuron-inventory-failover/src/main/java/com/vneuron/creamery/inventoryfailover/model/CheeseInventoryDto.java
+/home/khalilsleimi/Documents/learnspace/stage-ing/vneuron-inventory-failover/src/main/java/com/vneuron/creamery/inventoryfailover/web/InventoryHandler.java
+/home/khalilsleimi/Documents/learnspace/stage-ing/vneuron-inventory-failover/src/main/java/com/vneuron/creamery/inventoryfailover/web/RouterConfig.java
+/home/khalilsleimi/Documents/learnspace/stage-ing/vneuron-inventory-failover/src/main/java/com/vneuron/creamery/inventoryfailover/config/LocalDiscovery.java
+/home/khalilsleimi/Documents/learnspace/stage-ing/vneuron-inventory-failover/src/main/java/com/vneuron/creamery/inventoryfailover/VneuronCreameryInventoryFailoverApplication.java

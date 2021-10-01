@@ -1,0 +1,4 @@
+com/vneuron/gateway/config/LoadBalancedRoutesConfig.class
+com/vneuron/gateway/config/LocalHostRouteConfig.class
+com/vneuron/gateway/config/GoogleConfig.class
+com/vneuron/gateway/VneuronCreameryGatewayApplication.class

@@ -1,0 +1,3 @@
+com/vneuron/vneuroncheeseservice/VneuronCheeseServiceApplicationTests.class
+com/vneuron/vneuroncheeseservice/services/inventory/CheeseInventoryServiceRestTemplateImplTest.class
+com/vneuron/vneuroncheeseservice/web/controller/CheeseControllerTest.class

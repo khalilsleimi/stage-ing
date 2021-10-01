@@ -1,0 +1,6 @@
+com/vneuron/creamery/inventoryfailover/config/LocalDiscovery.class
+com/vneuron/creamery/inventoryfailover/web/InventoryHandler.class
+com/vneuron/creamery/inventoryfailover/VneuronCreameryInventoryFailoverApplication.class
+com/vneuron/creamery/inventoryfailover/model/CheeseInventoryDto.class
+com/vneuron/creamery/inventoryfailover/model/CheeseInventoryDto$CheeseInventoryDtoBuilder.class
+com/vneuron/creamery/inventoryfailover/web/RouterConfig.class
